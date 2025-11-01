@@ -1,15 +1,17 @@
 Lista Workshop:
 1. Andrieș-Georgian Alin | 342B4 | respins |
-2. Cioloca Alexandru
-3. Dumitru Denis-Marian
-4. Fota Robert-Daniel 
-5. Grigore Vlad
-6. Grădincia Roberto-Marius
-7. Manolescu Edward
-8. Marin Amalia-Elena
-9. Meshinsh Dalia
+2. Cioloca Alexandru | pre-admis | 
+   Codrescu Radu | admis |
+3. Dumitru Denis-Marian | pre-respins|
+4. Fota Robert-Daniel | pre-respins |
+5. Grigore Vlad | online | pre-admis |
+6. Grădincia Roberto-Marius | admis | 
+7. Manolescu Edward | pre-respins |
+8. Marin Amalia-Elena | admis |
+9. Meshinsh Dalia | pre-admis |
 10. Paraschiv Constantin - respins
-11. Popescu Ștefan Lucian
-12. Trăistaru Alexandru Mihai
-13. Untea Robert
+11. Popescu Ștefan Lucian | admis |
+12. Trăistaru Alexandru Mihai | admis |
+13. Untea Robert | admis |
 14. Ungureanu Gabriel Constantin (mecatronica)
+15. Alin Banica | pre-doctorat | pre-admis |
