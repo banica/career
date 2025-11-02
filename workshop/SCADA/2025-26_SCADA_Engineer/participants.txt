@@ -1,17 +1,18 @@
-Lista Workshop:
-1. Andrieș-Georgian Alin | 342B4 | respins |
-2. Cioloca Alexandru | pre-admis | 
-   Codrescu Radu | admis |
-3. Dumitru Denis-Marian | pre-respins|
-4. Fota Robert-Daniel | pre-respins |
-5. Grigore Vlad | online | pre-admis |
-6. Grădincia Roberto-Marius | admis | 
-7. Manolescu Edward | pre-admis | pre-student Electronica |
-8. Marin Amalia-Elena | admis |
-9. Meshinsh Dalia | pre-admis |
-10. Paraschiv Constantin - respins
-11. Popescu Ștefan Lucian | admis |
-12. Trăistaru Alexandru Mihai | admis |
-13. Untea Robert | admis |
-14. Ungureanu Gabriel Constantin (mecatronica) | MA2 | respins |
-15. Alin Banica | pre-doctorat | pre-admis |
+| Nr. | Nume și Prenume | Alte Detalii | Status 1 | Status 2 |
+|-----|------------------|---------------|-----------|-----------|
+| 1 | Andrieș-Georgian Alin | 342B4 | ❌ Respins | |
+| 2 | Cioloca Alexandru | | ⚠️ Pre-admis | |
+| 3 | Codrescu Radu | | ✅ Admis | |
+| 4 | Dumitru Denis-Marian | | 🚫 Pre-respins | |
+| 5 | Fota Robert-Daniel | | 🚫 Pre-respins | |
+| 6 | Grigore Vlad | Online | ⚠️ Pre-admis | |
+| 7 | Grădincia Roberto-Marius | | ✅ Admis | |
+| 8 | Manolescu Edward | | ⚠️ Pre-admis | 🎓 Pre-student Electronica |
+| 9 | Marin Amalia-Elena | | ✅ Admis | |
+| 10 | Meshinsh Dalia | | ⚠️ Pre-admis | |
+| 11 | Paraschiv Constantin | | ❌ Respins | |
+| 12 | Popescu Ștefan Lucian | | ✅ Admis | |
+| 13 | Trăistaru Alexandru Mihai | | ✅ Admis | |
+| 14 | Untea Robert | | ✅ Admis | |
+| 15 | Ungureanu Gabriel Constantin | Mecatronică / MA2 | ❌ Respins | |
+| 16 | Alin Banica | Pre-doctorat | ⚠️ Pre-admis | |
