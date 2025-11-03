@@ -4,7 +4,7 @@
 | 2 | Cioloca Alexandru | | ⚠️ Pre-admis | |
 | 3 | Codrescu Radu | | ✅ Admis | |
 | 4 | Dumitru Denis-Marian | | 🚫 Pre-respins | |
-| 5 | Fota Robert-Daniel | | 🚫 Pre-respins | |
+| 5 | Fota Robert-Daniel | | ⚠️ Pre-admis | |
 | 6 | Grigore Vlad | Online | ⚠️ Pre-admis | |
 | 7 | Grădincia Roberto-Marius | | ✅ Admis | |
 | 8 | Manolescu Edward | | ⚠️ Pre-admis | 🎓 Pre-student Electronica |
