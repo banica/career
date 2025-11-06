@@ -2,10 +2,10 @@
 |-----|------------------|---------------|-----------|-----------|
 | 1 | Andrieș-Georgian Alin | 342B4 | ❌ Respins | |
 | 2 | Cioloca Alexandru | | ✅ Admis | |
-| 3 | Codrescu Radu | | ✅ Admis | |
+| 3 | Codreanu Radu | | ✅ Admis | |
 | 4 | Dumitru Denis-Marian | | ❌ Respins | |
-| 5 | Fota Robert-Daniel | | ✅ Admis | Doar daca trimite 100 job descriptions pe zona de SCADA |
-| 6 | Grigore Vlad | Online | ✅ Admis | Doar daca trimite 50 job descriptions pe zona de SCADA |
+| 5 | Fota Robert-Daniel | | ✅ Admis | mai sunt necesare unele aspecte care vor fi lamurite la prima intalnire |
+| 6 | Grigore Vlad | Online | ✅ Admis | mai sunt necesare unele aspecte care vor fi lamurite la prima intalnire |
 | 7 | Grădincia Roberto-Marius | | ✅ Admis | |
 | 8 | Manolescu Edward | 🎓 Pre-student Electronica | ✅ Admis | Doar daca raspunde intr-un Google Docs folosind orice tehnologie la intrebarile de SCADA. |
 | 9 | Marin Amalia-Elena | | ✅ Admis | |
